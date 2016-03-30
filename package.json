@@ -1,0 +1,26 @@
+{
+  "name": "peerdeptest",
+  "version": "0.0.1",
+  "description": "A small library providing utility methods to escape and unescape HTML entities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/DeividasBakanas/PeerDepTest.git"
+  },
+  "peerDependencies": {
+      "react" : "^0.14.7 || ^15.0.0-rc.1"
+  },
+  "keywords": [
+    "peer",
+    "dep",
+    "test"
+  ],
+  "author": "Deividas Bakanas <bakanasD@gmail.com> (http://quatrodev.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeividasBakanas/PeerDepTest/issues"
+  }
+}
